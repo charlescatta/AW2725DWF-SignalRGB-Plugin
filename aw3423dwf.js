@@ -1,6 +1,6 @@
-export function Name() { return "Alienware AW3423DWF"; }
+export function Name() { return "Alienware AW2725DF"; }
 export function VendorId() { return 0x187c; }
-export function ProductId() { return 0x100e; }
+export function ProductId() { return 0x100F; }
 export function Publisher() { return "Fefe_du_973"; }
 export function Size() { return [80, 35]; }
 export function DefaultPosition() { return [10, 100]; }
